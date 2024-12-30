@@ -32,13 +32,13 @@ export default function LeftPanel() {
           {/* Social Links */}
           <div className="mb-6 flex justify-center space-x-4">
             <a 
-              href="#" 
+              href="https://github.com/Mathi8843" 
               className="rounded-full bg-white/5 p-2.5 text-white/70 transition-all hover:bg-white/10 hover:text-white"
             >
               <Github className="h-5 w-5" />
             </a>
             <a 
-              href="#" 
+              href="https://www.linkedin.com/in/mathi-vanan-29015325a" 
               className="rounded-full bg-white/5 p-2.5 text-white/70 transition-all hover:bg-white/10 hover:text-white"
             >
               <Linkedin className="h-5 w-5" />
