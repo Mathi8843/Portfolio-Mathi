@@ -24,15 +24,15 @@ export default function Contact() {
 
     try {
       await emailjs.send(
-        'service_service_v1quopj', // Replace with your EmailJS service ID
-        'template_xxxxxxx', // Replace with your EmailJS template ID
+        'service_v1quopj', // Replace with your EmailJS service ID
+        'template_1lmpgkt', // Replace with your EmailJS template ID
         {
           from_name: formData.name,
           from_email: formData.email,
           message: formData.message,
           to_email: 'mathimathi8843@gmail.com',
         },
-        'your_public_key' // Replace with your EmailJS public key
+        'a4u8xKcAvTV6T2drY' // Replace with your EmailJS public key
       );
 
       toast.success('Message sent successfully!');
