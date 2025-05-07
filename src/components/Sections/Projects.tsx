@@ -19,6 +19,14 @@ const projects = [
     tags: ['Next.js', 'TypeScript', 'PostgreSQL'],
   },
   {
+    title: 'Automated Timetable Generator system',
+    description: 'AiI powered timetable generator using flask',
+    image: 'https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&w=800&q=80',
+    github: '#',
+    demo: '#',
+    tags: ['HTML', 'CSS', 'Flask'],
+  },
+  {
     title: 'Weather Dashboard',
     description: 'Interactive weather dashboard with real-time updates and forecasts',
     image: 'https://images.unsplash.com/photo-1592210454359-9043f067919b?auto=format&fit=crop&w=800&q=80',
