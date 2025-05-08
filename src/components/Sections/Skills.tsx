@@ -1,9 +1,9 @@
 import React from 'react';
 
 const skills = [
-  { category: 'Frontend', items: ['React', 'TypeScript', 'Tailwind CSS', 'Next.js'] },
-  { category: 'Backend', items: ['Node.js', 'Express', 'PostgreSQL', 'MongoDB'] },
-  { category: 'Tools', items: ['Git', 'Docker', 'AWS', 'Jest'] },
+  { category: 'Frontend', items: ['HTML', 'CSS', 'React'] },
+  { category: 'Backend', items: ['Flask', 'SQl'] },
+  { category: 'Tools', items: ['Git', 'VS code', 'N8N'] },
   { category: 'Soft Skills', items: ['Team Leadership', 'Communication', 'Problem Solving', 'Agile'] },
 ];
 
